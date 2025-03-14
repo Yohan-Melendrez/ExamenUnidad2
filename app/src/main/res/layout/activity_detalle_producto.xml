@@ -22,7 +22,7 @@
             android:scaleType="fitXY"
             android:src="@drawable/capuccino"/>
         <TextView
-            android:id="@+id/movie_title_cell"
+            android:id="@+id/costo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="7.0"
