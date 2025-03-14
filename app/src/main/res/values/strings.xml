@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">thecheezery</string>
+    <string name="welcome">Welcome to the Cheezery!</string>
+    <string name="text">Home of the most wonderful dessert even seen(and tasted) to the human being</string>
+    <string name="started">GET STARTED!</string>
+    <string name="menu">OUR MENU</string>
+    <string name="coldDrinks">COLD DRINKS</string>
+    <string name="hotDrinks">HOT DRINKS</string>
+    <string name="sweets">SWEETS</string>
+    <string name="salties">SALTIES</string>
+
+</resources>
